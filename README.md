@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi , I'm Jason Kyle Tan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,jquery,react,mongodb,nodejs,c,git,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,python,js,html,css,jquery,react,nodejs,mongodb,mysql,flask,heroku,googlecloud,git)](https://skills.thijs.gg)
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2586F7&width=435&lines=Computer+Science+Student;DS+%7C+Algorithms+%7C+OOP;Aspiring+Software+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
@@ -49,6 +50,6 @@
 
 -----
 
-Credits: [7oSkaaa](https://github.com/7oSkaaa) and [Davekibh](https://github.com/Davekibh)
+Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
-Last Edited on: 09/09/2022
+Last Edited on: 10/02/2022

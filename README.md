@@ -50,6 +50,6 @@
 
 -----
 
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Credits: [7oSkaaa](https://github.com/7oSkaaa) and [Davekibh](https://github.com/Davekibh)
 
-Last Edited on: 10/02/2022
+Last Edited on: 09/09/2022

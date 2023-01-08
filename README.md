@@ -23,7 +23,7 @@
 
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1VVjlj3uKFxoZYZ0ApJ-B7ujkpbEkPRKr/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1OPj01b45E9yWDpIiOCiN85C4f_7M7tsl/view?usp=sharing).
 
 - :nerd_face: Always `learning new things`
 

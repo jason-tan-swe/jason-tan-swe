@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Jason <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,python,vite,react,tailwind,materialui,jquery,css,nodejs,express,flask,mongodb,mysql,postgres,gcp,docker,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,python,vite,react,tailwind,materialui,css,nodejs,flask,mongodb,mysql,postgres,gcp,docker)](https://skills.thijs.gg)
 
 
 <p align="center">

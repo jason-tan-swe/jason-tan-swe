@@ -21,7 +21,7 @@
 
 - :technologist: I am constantly `Learning` new full-stack technologies
 
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning: `MaterialUI` and `Docker`.
 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1OPj01b45E9yWDpIiOCiN85C4f_7M7tsl/view?usp=sharing).
 

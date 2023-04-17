@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi , I'm Jason Kyle Tan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Jason <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,python,js,html,css,jquery,react,nodejs,mongodb,mysql,flask,heroku,googlecloud,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,python,java,c,react,vite,tailwind,materialui,html,css,jquery,nodejs,express,jest,flask,mongodb,mysql,postgres,gcp,docker,gitlab,git)](https://skills.thijs.gg)
 
 
 <p align="center">

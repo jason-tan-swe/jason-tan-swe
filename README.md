@@ -23,7 +23,7 @@
 
 - :student: I’m currently learning: `MaterialUI` and `Docker`.
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1OPj01b45E9yWDpIiOCiN85C4f_7M7tsl/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1R2G4VWK53Ap13Wr22hu7hVjdE-uU__oN/view?usp=sharing).
 
 <br>
 

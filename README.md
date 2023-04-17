@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2586F7&width=435&lines=Computer+Science+Student;DS+%7C+Algorithms+%7C+OOP;Aspiring+Software+Developer;Always+learning+new+technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2586F7&width=435&lines=Software+Engineering+Student;DS+%7C+Algorithms+%7C+OOP;Aspiring+Software+Developer;Enthusiastic+Full-stack+Developer" alt="Typing SVG" /></a>
 
 </p>
 
@@ -19,13 +19,11 @@
 
 - :school: I am a `Junior` at the School of Computer Science at the University of Guelph
 
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I am constantly `Learning` new full-stack technologies
 
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1OPj01b45E9yWDpIiOCiN85C4f_7M7tsl/view?usp=sharing).
-
-- :nerd_face: Always `learning new things`
 
 <br>
 

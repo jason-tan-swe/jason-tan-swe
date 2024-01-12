@@ -17,11 +17,11 @@
 
 ##  :sassy_man: About me
 
-- :school: I am a `Junior` at the School of Computer Science at the University of Guelph
+- :school: I am a `Senior` at the School of Computer Science at the University of Guelph
 
 - :technologist: I am constantly `Learning` new full-stack technologies
 
-- :student: I’m currently learning: `MaterialUI` and `Docker`.
+- :student: I’m currently learning: `Electron` and `Docker`.
 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1R2G4VWK53Ap13Wr22hu7hVjdE-uU__oN/view?usp=sharing).
 

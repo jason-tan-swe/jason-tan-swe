@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2586F7&width=435&lines=Software+Engineering+Student;DS+%7C+Algorithms+%7C+OOP;Aspiring+Software+Developer;Enthusiastic+Full-stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2586F7&width=435&lines=Software+Engineer+Student;DS+%7C+Algorithms+%7C+OOP;Software+Developer;Enthusiastic+Full-stack+Developer" alt="Typing SVG" /></a>
 
 </p>
 
@@ -23,7 +23,7 @@
 
 - :student: I’m currently learning: `Electron` and `Docker`.
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1R2G4VWK53Ap13Wr22hu7hVjdE-uU__oN/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ILQvpWIlq6u_S-wIbZju90KT4dutVmP2/view?usp=sharing).
 
 <br>
 
@@ -34,9 +34,9 @@
 
 <a href="mailto:tjasonkyle@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<a href="https://github.com/AeGGIndie"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/jason-tan-swe"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<a href="https://www.linkedin.com/in/jasonkyle-tan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jason-tan-swe/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 
@@ -50,4 +50,4 @@
 
 Credits: [7oSkaaa](https://github.com/7oSkaaa) and [Davekibh](https://github.com/Davekibh)
 
-Last Edited on: 04/16/2023
+Last Edited on: 02/01/2024

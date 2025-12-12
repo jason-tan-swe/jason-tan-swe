@@ -1,11 +1,12 @@
 <p align="center"><a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&duration=3000&pause=250&color=F7F7F7&background=DDFF8100&center=true&width=435&lines=Hey%2C+I'm+Jason!;Hello+po%2C+ako+si+Jason;Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Jason" alt="Typing SVG" /></a></p>
-
+<!--
 <div align="center">
 <a href="https://www.linkedin.com/in/jason-tan-software-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="https://jasontan.co"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
-<!-- <a href="mailto:tjasonkyle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+ <a href="https://jasontan.co"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+ <a href="mailto:tjasonkyle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/jason-tan-swe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
+-->
 
 <div align=center>
   
